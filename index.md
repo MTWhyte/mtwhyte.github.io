@@ -1,1 +1,3 @@
-Hopefully I can make a web page here at some point!
+# Murray T. Whyte
+
+The idea is to use this space to create a decent webpage.
