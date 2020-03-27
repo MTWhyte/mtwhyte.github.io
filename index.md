@@ -1,3 +1,3 @@
-# A test section
+# Murray T. Whyte
 
-The idea is to use this space to create a decent webpage.
+The idea here is to build a decent webpage. I plan on doing this fairly gradually, and I'll see how it goes.
