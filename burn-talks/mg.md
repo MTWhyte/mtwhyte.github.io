@@ -1,0 +1,5 @@
+**Grey seal pup production estimation: A Bayesian state-space approach**
+
+Mia Goldman
+
+To effectively manage grey seal populations in the UK, it is crucial to have accurate estimates of pup production. However, previous methodologies have been limited in scope and flexibility. This project proposes an innovative approach utilizing Bayesian state-space modelling techniques. These methods offer the advantage of capturing the increased complexity of biological processes, estimation of key observation parameters, and enable sharing of information across colonies and years. The data are derived from serial aerial counts of colonies conducted during the breeding season where only a portion of the total population is observed during a single survey. This approach has the potential to significantly improve estimation compared to current methods, directly informing the overall grey seal population dynamics model and more effective management strategies. In this presentation, I will discuss the updated biological processes, methods, and share preliminary results from analyses conducted using simulated datasets.
